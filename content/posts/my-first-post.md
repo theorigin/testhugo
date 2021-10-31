@@ -2,7 +2,7 @@
 title: "Using Hugo for my blog"
 date: 2021-10-31T10:04:01Z
 draft: false
-tags: [c#, date]
+tags: [date]
 ---
 
 # This is the content of the post
